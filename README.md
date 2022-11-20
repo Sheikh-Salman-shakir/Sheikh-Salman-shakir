@@ -1,9 +1,9 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/Sheikh-Salman-shakir-red)](https://https://www.youtube.com/channel/UClb2DomR7KZgXLfdFTrbqwg
-[![Linkedin Badge](https://img.shields.io/badge/-Sheikh-Salman-shakir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/sheikh-salman-shakir-a66a91256/
-[![Website Badge](https://img.shields.io/badge/WebSite-Sheikh-Salman-shakir-green)](https://www.Sheikh-Salman-shakir)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Sheikh-Salman-shakir-yellow)](https://stackoverflow.com/users/20484127/sheikh-salman-shakir
+[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://https://www.youtube.com/channel/UClb2DomR7KZgXLfdFTrbqwg
+[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/sheikh-salman-shakir-a66a91256/
+[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.Sheikh-Salman-shakir)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/20484127/sheikh-salman-shakir
 
 I'm
 Full Stack Solution Architect
